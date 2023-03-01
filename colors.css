@@ -1,0 +1,44 @@
+/* colors.css -- Controlling the colors and borders for Project one
+ * author:
+ */
+
+header {
+    background-color: #443627;
+    color: white;
+    border-top: solid 10px  #725E54;
+    border-bottom: solid 10px #725E54;
+}
+p{
+    color: #1B1B3A;
+}
+
+body {
+    background-color: #D5DCF9;
+}
+
+section {
+    background-color: #A7B0CA;
+    color: #1B1B3A;
+    border: dashed 2px #1B1B3A;
+    border-radius: 6px;
+
+}
+
+h1 {
+    color: #1B1B3A;
+}
+
+h2 {
+    color: #1B1B3A;
+}
+
+h3 {
+
+    color: #1B1B3A;
+}
+h4{
+    color: #1B1B3A;
+}
+li{
+    color: #1B1B3A;
+}

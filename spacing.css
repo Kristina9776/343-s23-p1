@@ -1,0 +1,24 @@
+/* colors.css -- Controlling the colors and borders for Project one
+ * author:
+ */
+
+header {
+    font-family: bold 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+
+section {
+    margin: 2vw;
+}
+
+image {
+    display: inline-block
+}
