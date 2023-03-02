@@ -5,7 +5,7 @@
 header {
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 35px;
-
+    margin-bottom: 1vh;
 
 }
 
@@ -24,8 +24,9 @@ section {
 
 .profiles {
     display: flex;
+    flex: 0, 1, auto;
     flex-direction: row;
-    align-items: center;
+    align-items: stretch;
     justify-content: space-evenly;
 
 }
@@ -37,6 +38,22 @@ section {
     justify-content: space-evenly;
 }
 
-.indexWrapper{
-    
+.sub {
+    text-align: center;
+}
+
+.gang {
+    text-align: center;
+}
+.daniel{
+    border-radius: 25%;
+}
+.photos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.indexsec{
+    text-align: center;
 }
