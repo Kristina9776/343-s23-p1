@@ -45,15 +45,49 @@ section {
 .gang {
     text-align: center;
 }
-.daniel{
+
+.daniel {
     border-radius: 25%;
 }
-.photos{
+
+.photos {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
 }
-.indexsec{
+
+.indexsec {
     text-align: center;
+}
+
+.ninja {
+    display: flex;
+    justify-content: center;
+
+}
+
+.one {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
+
+}
+
+.three {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+h2{
+    font-size: 1.5em;
+}
+h3{
+    font-size: 1.5em;
+}
+h4{
+    font-size: 1.5em;
 }
