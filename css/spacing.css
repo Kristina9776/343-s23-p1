@@ -17,8 +17,26 @@ p {
 
 section {
     margin: 2vw;
+    padding: 1vw;
 }
 
-image {
-    display: inline-block
+
+
+.profiles {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.professor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.indexWrapper{
+    
 }

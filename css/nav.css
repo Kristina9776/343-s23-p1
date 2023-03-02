@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #450084;
+    position: fixed;
+    height: 100%;
+    width: 100px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+Header {
+    text-align: center;
+}
+
+div{
+    margin-left: 120px;
+}
+
+@media screen and (max-width: 1240px) {
+    nav {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        background-color: purple;
+        height: 100px;
+        width: 100%;
+        margin: 0;
+        position: sticky;
+    }
+
+    div {
+        margin: 0;
+    }
+}
