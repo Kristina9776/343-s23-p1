@@ -7,6 +7,9 @@
 
 }
 
+/**
+This allows the profiles to be formated as a column when viewing on a mobile device.
+**/
 @media screen and (max-width: 1240px) {
     .profiles {
         display: flex;
@@ -30,9 +33,6 @@
     text-align: center;
 }
 
-.sub {
-    text-align: center;
-}
 
 
 .daniel {

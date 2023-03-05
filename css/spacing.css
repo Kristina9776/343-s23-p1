@@ -20,6 +20,10 @@ section {
     padding: 1vw;
 }
 
+.sub {
+    text-align: center;
+}
+
 .photos {
     display: flex;
     flex-direction: row;
@@ -52,12 +56,14 @@ section {
     justify-content: space-between;
 }
 
-h2{
+h2 {
     font-size: 1.5em;
 }
-h3{
+
+h3 {
     font-size: 1.5em;
 }
-h4{
+
+h4 {
     font-size: 1.5em;
 }
