@@ -5,10 +5,11 @@
 header {
     background-color: #443627;
     color: white;
-    border-top: solid 10px  #725E54;
+    border-top: solid 10px #725E54;
     border-bottom: solid 10px #725E54;
 }
-body{
+
+body {
     color: #1B1B3A;
     background-color: #D5DCF9;
 }
@@ -21,8 +22,18 @@ section {
     border-radius: 6px;
 
 }
-.website{
+
+.website {
     color: #1B1B3A;
     text-decoration: underline;
 }
 
+.principles {
+    background-color: #A7B0CA;
+    color: #1B1B3A;
+    border: dashed 2px #1B1B3A;
+    border-radius: 6px;
+
+
+
+}
