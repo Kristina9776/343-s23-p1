@@ -8,13 +8,11 @@ header {
     border-top: solid 10px  #725E54;
     border-bottom: solid 10px #725E54;
 }
-p{
+body{
     color: #1B1B3A;
-}
-
-body {
     background-color: #D5DCF9;
 }
+
 
 section {
     background-color: #A7B0CA;
@@ -23,22 +21,8 @@ section {
     border-radius: 6px;
 
 }
-
-h1 {
+.website{
     color: #1B1B3A;
+    text-decoration: underline;
 }
 
-h2 {
-    color: #1B1B3A;
-}
-
-h3 {
-
-    color: #1B1B3A;
-}
-h4{
-    color: #1B1B3A;
-}
-li{
-    color: #1B1B3A;
-}
