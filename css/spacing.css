@@ -20,36 +20,6 @@ section {
     padding: 1vw;
 }
 
-
-
-.profiles {
-    display: flex;
-    flex: 0, 1, auto;
-    flex-direction: row;
-    align-items: stretch;
-    justify-content: space-evenly;
-
-}
-
-.professor {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
-}
-
-.sub {
-    text-align: center;
-}
-
-.gang {
-    text-align: center;
-}
-
-.daniel {
-    border-radius: 25%;
-}
-
 .photos {
     display: flex;
     flex-direction: row;

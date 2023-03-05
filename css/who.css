@@ -1,0 +1,40 @@
+.profiles {
+    display: flex;
+    flex: 0, 1, auto;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-evenly;
+
+}
+
+@media screen and (max-width: 1240px) {
+    .profiles {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+
+    }
+
+
+}
+
+.professor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.gang {
+    text-align: center;
+}
+
+.sub {
+    text-align: center;
+}
+
+
+.daniel {
+    border-radius: 25%;
+}
